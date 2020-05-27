@@ -5,16 +5,16 @@
 ### Solved Problem
 Problem list yang berhasil diselesaikan :
 - [A First Step](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/A%20First%20Step/README.md)
-- Discord
-- Broken Button
+- [Discord](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Discord/README.md)
+- [Broken Button](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Broken%20Button/README.md)
 - Circles
-- Speedrunner
+- [Speedrunner](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Speedrunner/README.md)
 - Forwarding
-- Ling Ling
+- [Ling Ling](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Ling%20Ling/README.md)
 - Gym
-- Hexillology
+- [Hexillology](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Hexillology/README.md)
 - Tap Dancing
-- Typewriter
+- [Typewriter](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Typewriter/README.md)
 - Login
 - Sarah Palin Fanpage
 - Titanic
@@ -24,4 +24,4 @@ Problem list yang berhasil diselesaikan :
 - Is This Crypto?
 - RSABC
 - Gamer W
-- Zipped Up 
+- [Zipped Up](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/tree/master/Zipped%20Up)
