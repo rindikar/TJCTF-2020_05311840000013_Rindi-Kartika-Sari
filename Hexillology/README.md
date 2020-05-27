@@ -16,7 +16,7 @@ I recently designed a new [flag](https://static.tjctf.org/af83861c918131864a4e3d
 	<br> Hasil konversi __HEX Code__ ke ASCII untuk semua warna telah dicatat pada __Notepad__ untuk mempermudah dalam penyusunan ```flag format yang benar``` <br>
 ![11](https://user-images.githubusercontent.com/49342639/83035665-ef95cd80-a063-11ea-92ee-0af26760541d.PNG)
 
-4. Urutkan hasil konversi di atas mulai dari bawah menuju ke atas. Maka, akan didapatkan ```flag format yang benar````
+4. Urutkan hasil konversi di atas mulai dari bawah menuju ke atas. Maka, akan didapatkan ```flag format yang benar```
 
 ## Flag
 ```html
