@@ -16,7 +16,7 @@ __Method__ :
 2. Lakukan pengekstrakan manual dari **_zip file_** yang telah diunduh
 ![03](https://user-images.githubusercontent.com/49342639/82990232-0f0e0580-a026-11ea-9d18-841d01df1802.PNG)
 
-3. Untuk mempermudah metode selanjutnya, maka lakukan penggantian nama _(rename)_ pada file hasil pengekstrakan dengan nama ```ZippedUp```
+3. Untuk mempermudah metode selanjutnya, maka lakukan penggantian nama _(rename)_ pada file hasil pengekstrakan dengan nama ```ZippedUp``` <br>
 ![04](https://user-images.githubusercontent.com/49342639/82990451-6e6c1580-a026-11ea-99a6-e07f0de5796a.PNG)
 <br> Kita buka terlebih dahulu si dari folder hasil pengekstrakan **_zip file_** dengan menggunakan ```ls``` pada folder tersebut
 ![05 00](https://user-images.githubusercontent.com/49342639/82991157-79737580-a027-11ea-90e7-12e7b54f92fb.PNG)
