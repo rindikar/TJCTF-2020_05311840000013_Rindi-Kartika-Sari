@@ -18,5 +18,5 @@ __Hint__: ```SHI ZAAAAA (cipher)```
 ```html
 TJCTF{NEW_TECH_NEW_TECH_GO_FAST_GO_FAST}
 ```
-Have i really done it? <br>
+Have i really done it? :point_down: <br>
 ![Solved](https://user-images.githubusercontent.com/49342639/83009896-a765b380-a041-11ea-93d2-6f9c4477367f.PNG)
