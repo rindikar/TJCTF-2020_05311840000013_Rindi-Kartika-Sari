@@ -6,6 +6,7 @@
 ---
 Problem list yang berhasil diselesaikan :
 - A First Step
+- Discord
 - Broken Button
 - Circles
 - Speedrunner
