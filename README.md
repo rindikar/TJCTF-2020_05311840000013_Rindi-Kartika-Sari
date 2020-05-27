@@ -4,7 +4,7 @@
 ![1590554878314](https://user-images.githubusercontent.com/49342639/82978957-0ca0b100-a010-11ea-9562-a481d7807b6d.jpg)
 ### Solved Problem
 Problem list yang berhasil diselesaikan :
-- [A First Step] (https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/A%20First%20Step/README.md)
+- A First Step
 - Broken Button
 - Circles
 - Speedrunner
