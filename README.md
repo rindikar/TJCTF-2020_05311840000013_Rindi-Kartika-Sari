@@ -1,11 +1,10 @@
 # TJCTF-2020
-> Rindi Kartika Sari - 05311840000013 (Team : Beyond)
+> Rindi Kartika Sari - 05311840000013
 > ---
 ![1590554878314](https://user-images.githubusercontent.com/49342639/82978957-0ca0b100-a010-11ea-9562-a481d7807b6d.jpg)
 ### Solved Problem
----
 Problem list yang berhasil diselesaikan :
-- A First Step
+- [A First Step](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/A%20First%20Step/README.md)
 - Discord
 - Broken Button
 - Circles
@@ -25,4 +24,4 @@ Problem list yang berhasil diselesaikan :
 - Is This Crypto?
 - RSABC
 - Gamer W
-- Zipped Up
+- Zipped Up 
