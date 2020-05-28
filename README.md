@@ -1,5 +1,5 @@
-# TJCTF-2020
-> Rindi Kartika Sari - 05311840000013
+# TJCTF-2020 
+> Rindi Kartika Sari - 05311840000013 (Team Name: Beyond)
 > ---
 ![1590554878314](https://user-images.githubusercontent.com/49342639/82978957-0ca0b100-a010-11ea-9562-a481d7807b6d.jpg)
 ### Solved Problem
