@@ -23,5 +23,5 @@ Problem list yang berhasil diselesaikan :
 - [Rap God](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Rap%20God/README.md)
 - [Is This Crypto?](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Is%20This%20Crypto%3F/README.md)
 - [RSABC](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/tree/master/RSABC)
-- Gamer W
+- [Gamer W](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Gamer%20W/README.md)
 - [Zipped Up](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/tree/master/Zipped%20Up)
