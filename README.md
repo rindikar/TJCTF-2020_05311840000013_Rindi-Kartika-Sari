@@ -17,7 +17,7 @@ Problem list yang berhasil diselesaikan :
 - [Typewriter](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Typewriter/README.md)
 - Login
 - Sarah Palin Fanpage
-- Titanic
+- [Titanic](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/tree/master/Titanic)
 - Chord Encoder
 - Login Sequel
 - Rap God
