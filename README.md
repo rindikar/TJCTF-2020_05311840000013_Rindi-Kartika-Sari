@@ -2,6 +2,9 @@
 > Rindi Kartika Sari - 05311840000013 (Team Name: Beyond)
 > ---
 ![1590554878314](https://user-images.githubusercontent.com/49342639/82978957-0ca0b100-a010-11ea-9562-a481d7807b6d.jpg)
+
+![Poin](https://user-images.githubusercontent.com/49342639/83151873-54662c00-a127-11ea-83e2-9d39321baab1.PNG)
+
 ### Solved Problem
 Problem list yang berhasil diselesaikan :
 - Miscellaneous
