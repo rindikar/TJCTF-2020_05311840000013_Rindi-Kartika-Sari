@@ -13,7 +13,7 @@ Problem list yang berhasil diselesaikan :
 - [Ling Ling](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Ling%20Ling/README.md)
 - Gym
 - [Hexillology](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Hexillology/README.md)
-- Tap Dancing
+- [Tap Dancing](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Tap%20Dancing/README.md)
 - [Typewriter](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Typewriter/README.md)
 - [Login](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Login/README.md)
 - [Sarah Palin Fanpage](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Sarah%20Palin%20Fanpage/README.md)
