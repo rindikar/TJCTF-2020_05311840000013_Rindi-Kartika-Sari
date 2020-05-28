@@ -16,7 +16,7 @@ Problem list yang berhasil diselesaikan :
 - Tap Dancing
 - [Typewriter](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Typewriter/README.md)
 - Login
-- Sarah Palin Fanpage
+- [Sarah Palin Fanpage](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Sarah%20Palin%20Fanpage/README.md)
 - [Titanic](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/tree/master/Titanic)
 - Chord Encoder
 - Login Sequel
