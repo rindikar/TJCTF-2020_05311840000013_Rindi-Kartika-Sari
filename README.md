@@ -18,7 +18,7 @@ Problem list yang berhasil diselesaikan :
 - [Login](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Login/README.md)
 - [Sarah Palin Fanpage](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Sarah%20Palin%20Fanpage/README.md)
 - [Titanic](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/tree/master/Titanic)
-- Chord Encoder
+- [Chord Encoder](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Chord%20Encoder/README.md)
 - [Login Sequel](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Login%20Sequel/README.md)
 - [Rap God](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Rap%20God/README.md)
 - [Is This Crypto?](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Is%20This%20Crypto%3F/README.md)
