@@ -11,7 +11,7 @@ Problem list yang berhasil diselesaikan :
 - [Speedrunner](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Speedrunner/README.md)
 - [Forwarding](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Forwarding/README.md)
 - [Ling Ling](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Ling%20Ling/README.md)
-- Gym
+- [Gym](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Gym/README.md)
 - [Hexillology](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Hexillology/README.md)
 - [Tap Dancing](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Tap%20Dancing/README.md)
 - [Typewriter](https://github.com/rindikar/TJCTF-2020_05311840000013_RindiKartikaSari/blob/master/Typewriter/README.md)
